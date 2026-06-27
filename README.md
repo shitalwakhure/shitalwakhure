@@ -1,15 +1,34 @@
-# Hi there, I'm Shital Wakhure 👋
+<div align="center">
 
-**`Electronics & Telecommunication Engineering Student`**
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shital+Wakhure;Electronics+%26+Telecom+Engineer;IoT+%7C+Embedded+Systems+%7C+VLSI" alt="Shital Wakhure" />
+</h1>
 
-> Passionate about Embedded Systems, IoT, and VLSI — I love building hardware-software integrated projects and continuously learning new technologies.
+<p>
+  <img src="https://img.shields.io/badge/she%2Fher-pronouns-a78bfa?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Pune%2C%20Maharashtra%2C%20India-f472b6?style=flat-square" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shitalwakhure&style=flat-square&color=6c63ff&label=Profile+Views" />
+</p>
 
-📍 Pune, Maharashtra, India &nbsp;|&nbsp; ✉️ shitalwakhure@gmail.com &nbsp;|&nbsp; she/her
+<p><i>Passionate about Embedded Systems, IoT & VLSI — building hardware-software integrated projects</i></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shital-wakhure-36b185370)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shitalwakhure@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shitalwakhure)
-![Profile Views](https://komarev.com/ghpvc/?username=shitalwakhure&style=flat&color=6c63ff&label=Profile+Views)
+<p>
+  <a href="https://linkedin.com/in/shital-wakhure-36b185370">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:shitalwakhure@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shitalwakhure">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
