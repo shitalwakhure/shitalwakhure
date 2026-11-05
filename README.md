@@ -1,138 +1,206 @@
+
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shital+Wakhure;Electronics+%26+Telecom+Engineer;IoT+%7C+Embedded+Systems+%7C+VLSI" alt="Shital Wakhure" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=850&height=65&lines=Hey+there!+I'm+Shital+%F0%9F%91%8B;Engineer+by+Education%2C+Creator+by+Passion;Building+at+the+Intersection+of+Tech;Code.+Connect.+Create.+Repeat." />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:0F172A,50:134E4A,100:0F172A&text=SHITAL_S_WAKHURE&fontColor=FFFFFF&fontSize=55&fontAlignY=55&animation=fadeIn&stroke=2DD4BF&strokeWidth=1" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/she%2Fher-pronouns-a78bfa?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Pune%2C%20Maharashtra%2C%20India-f472b6?style=flat-square" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shitalwakhure&style=flat-square&color=6c63ff&label=Profile+Views" />
+  <b>Electronics & Telecommunication Engineer | Developer | Curious Mind</b>
 </p>
-
-<p><i>Passionate about Embedded Systems, IoT & VLSI — building hardware-software integrated projects</i></p>
 
 <p>
   <a href="https://linkedin.com/in/shital-wakhure-36b185370">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  &nbsp;
   <a href="mailto:shitalwakhure@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/shitalwakhure">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=shitalwakhure&style=flat-square&color=2DD4BF&label=CURIOUS_VISITORS"/>
 
 </div>
 
 ---
 
-## 🎓 About Me
+## ✨ A Little About Me
 
-- 🔭 Currently building an **IoT-Based Patient Monitoring System**
-- 🌱 Learning **Embedded Linux · RTOS · VLSI Design · Semiconductor Technologies**
-- 🎯 Aspiring **Embedded Systems & Semiconductor Engineer**
-- 🏐 State-Level **Kabaddi Player**
+```yaml
+name: Shital Wakhure
+location: Pune, India
+education: Electronics & Telecommunication Engineering
 
----
+interests:
+  - Software Development
+  - Embedded Systems & IoT
+  - Data Engineering
+  - VLSI & Semiconductor Technology
+  - Software Testing & Automation
 
-## 🛠️ Skills
+currently_exploring:
+  - Advanced Java & Spring Boot
+  - Python & SQL
+  - Embedded Systems & FreeRTOS
+  - Digital Design & Verilog HDL
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Embedded Systems**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A86B?style=flat-square)
-![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
-
-**IoT & Cloud**
-
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white)
-![Adafruit IO](https://img.shields.io/badge/Adafruit_IO-000000?style=flat-square&logo=adafruit&logoColor=white)
-![WiFi](https://img.shields.io/badge/Wi--Fi_Communication-0078D4?style=flat-square&logo=wi-fi&logoColor=white)
-
-**Electronics**
-
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-FF6B35?style=flat-square)
-![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-2D6A4F?style=flat-square)
-![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-1B4332?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
----
-
-## 💼 Experience
-
-**IoT Intern — Elevance Skill**
-- Built IoT applications and integrated various sensors
-- Learned cloud communication and embedded system concepts
-- Currently developing an **IoT-Based Patient Monitoring System**
-
-**Electronics Intern — Enovate Skill**
-- Worked on electronics fundamentals and circuit design
-- Gained hands-on experience with components and simulations
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🏥 **IoT-Based Patient Monitoring System** | Real-time health monitoring with cloud dashboard | ESP32, FreeRTOS, MQTT, Adafruit IO |
-| 📋 **Smart Attendance System** | Automated attendance tracking using embedded hardware | Arduino, Sensors |
-| 🔋 **Battery Checker** | Hardware tool for battery health diagnostics | Circuit Design, Analog Electronics |
-
----
-
-## 🏆 Achievements
-
-- 🇮🇳 **SIH 2025** — Smart India Hackathon Participant
-- 👩‍💻 **SheInspires 2.0** — AI Hackathon Participant
-- 🏗️ **Buildethon** — Participant
-- ⚙️ **Technosphinx 2025** — Participant
-- 🏐 **State-Level Kabaddi Player**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shitalwakhure&show_icons=true&theme=default&hide_border=true&title_color=6c63ff&icon_color=6c63ff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalwakhure&layout=compact&theme=default&hide_border=true&title_color=6c63ff" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```
-Embedded Linux        ████████░░  80%
-FreeRTOS / RTOS       ███████░░░  70%
-VLSI Design           █████░░░░░  50%
-Semiconductor Tech    ████░░░░░░  40%
+philosophy: "Learn. Build. Experiment. Repeat."
 ```
 
+I'm someone who loves exploring how technology works — from writing backend applications to connecting sensors and building intelligent embedded systems.
+
+I enjoy solving problems, learning new technologies and turning concepts into practical projects.
+
+**My goal?** To create technology that is useful, reliable and meaningful.
+
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to build it — one circuit at a time."</i> ⚡
-  <br/><br/>
-  Thanks for visiting my profile! 😊
-</p>
+## ⚡ My Tech Universe
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql&theme=dark" />
+
+### 🌐 Software & Backend
+
+<img src="https://skillicons.dev/icons?i=spring,html,css,maven,selenium&theme=dark" />
+
+### 🔌 Embedded & Electronics
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&theme=dark" />
+
+### 🧪 Data, Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea&theme=dark" />
+
+</div>
+
+**Also exploring:** ESP32 · FreeRTOS · MQTT · Snowflake · Pandas · Selenium · TestNG · Playwright · Verilog HDL · Xilinx Vivado · Proteus.
+
+---
+
+## 🚀 Things I've Been Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Banking Transaction System
+
+**Java · Spring Boot · MySQL · REST API**
+
+A banking application focused on account management, transaction processing and fund-transfer simulation.
+
+</td>
+<td width="50%">
+
+### 🧪 Banking Automation Framework
+
+**Java · Selenium · TestNG · Maven**
+
+Automating banking website workflows with reusable test cases and execution reports.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Financial Data Pipeline
+
+**Python · SQL · Pandas · Snowflake**
+
+Extracting, transforming and organising financial transaction datasets for structured analysis.
+
+</td>
+<td width="50%">
+
+### 🏥 IoT Patient Monitoring
+
+**ESP32 · FreeRTOS · MQTT · Adafruit IO**
+
+Connecting sensor data, embedded multitasking and cloud communication for patient monitoring.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/shitalwakhure?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2DD4BF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Beyond the Code
+
+- ⚡ Exploring the world of semiconductors and chip design.
+- 🔬 Experimenting with electronics and embedded hardware.
+- 🧩 Enjoy solving logical and programming challenges.
+- 🌏 Learning Japanese.
+- 🏐 Sports enthusiast and state-level Kabaddi player.
+- 🎨 Interested in creativity, technology and continuous learning.
+
+---
+
+## 📡 My Developer Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shitalwakhure&show_icons=true&hide_border=true&theme=transparent&title_color=2DD4BF&icon_color=2DD4BF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitalwakhure&layout=compact&hide_border=true&theme=transparent&title_color=2DD4BF" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shitalwakhure&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shitalwakhure/shitalwakhure/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+```text
+[ IN PROGRESS ]
+
+> Mastering Java & Backend Development
+> Exploring Data Engineering
+> Building Embedded & IoT Applications
+> Strengthening VLSI Fundamentals
+> Improving Problem-Solving Skills
+
+STATUS: ALWAYS LEARNING...
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:0F172A&height=110&section=footer"/>
+
+### "Dream in ideas. Think in logic. Build in reality."
+
+**Thanks for stopping by!**
+
+*Let's connect, collaborate and create something extraordinary.*
+
+<img src="https://img.shields.io/badge/Made_with-Curiosity-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Powered_by-Coffee-8B5CF6?style=flat-square"/>
+
+</div>
